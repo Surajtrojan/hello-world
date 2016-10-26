@@ -1,10 +1,5 @@
-# hello-world
-beginner swag
+Hello World
+Begineer swag
 
-hello im a coder begineer now.
-woho
-yoyo
-
-something new gogo.
-
-learning how to pull request.
+Hello I am begineer coder right now.Learning something new.
+Learning how to make pull requests from the master himself "Vikram".
