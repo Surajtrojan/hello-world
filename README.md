@@ -1,10 +1,10 @@
-# hello-world
+Hello world
 beginner swag
 
-hello im a coder begineer now.
+Hello I am a begineer coder now.
 woho
 yoyo
 
-something new gogo.
+something new for me.
 
 learning how to pull request.
